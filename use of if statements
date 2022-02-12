@@ -1,4 +1,6 @@
 #if statement= a block of code that will execute if condition is true
+#If possible, while two equals signs checks if they're already equal to each other.
+# double equals sign is for comparison, and a single equals sign is for assignment.
 age=int(input("How old are you  ?"))
 if age ==100:
     print("You are happy to be alive!")
